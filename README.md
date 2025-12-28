@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm a **Fullstack Developer & AI Developer** from 🇵🇭 **Philippines**.
+I'm a **Fullstack Developer & AI Specialist** from 🇵🇭 **Philippines**.
 
 ## 💻 Tech Stack
 
@@ -78,8 +78,6 @@ I'm a **Fullstack Developer & AI Developer** from 🇵🇭 **Philippines**.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![](https://github-readme-stats.vercel.app/api?username=JSDevUno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=JSDevUno&theme=tokyonight&hide_border=true)
+![snake gif](https://github.com/JSDevUno/JSDevUno/blob/output/github-contribution-grid-snake.svg)
