@@ -1,8 +1,14 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Your Name**, Fullstack developer from 🇵🇭 **Philippines**, currently living in **Your City**.
+I'm a Fullstack developer from 🇵🇭 **Philippines**.
 
-## Things I code with
+## 💻 Tech Stack (Auto-detected from my repos)
 
-![](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mongodb,mysql,git,github,docker,npm,vscode,express,redux,tailwind,nextjs,python,firebase,vercel&perline=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JSDevUno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=JSDevUno&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JSDevUno&theme=tokyonight&hide_border=true)
