@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Your Name**, Fullstack developer from 🇵🇭 **Philippines**, currently living in **Your City**.
+I'm **JS Developer**, Fullstack developer from 🇵🇭 **Philippines**, currently living in **General Trias**.
 
 ## Things I code with
 
